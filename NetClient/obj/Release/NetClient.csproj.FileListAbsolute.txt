@@ -1,0 +1,9 @@
+C:\Users\coolt\source\repos\TcpLibs\NetClient\bin\Release\NetClient.dll
+C:\Users\coolt\source\repos\TcpLibs\NetClient\bin\Release\NetClient.pdb
+C:\Users\coolt\source\repos\TcpLibs\NetClient\bin\Release\NetShared.dll
+C:\Users\coolt\source\repos\TcpLibs\NetClient\bin\Release\NetShared.pdb
+C:\Users\coolt\source\repos\TcpLibs\NetClient\obj\Release\NetClient.csprojAssemblyReference.cache
+C:\Users\coolt\source\repos\TcpLibs\NetClient\obj\Release\NetClient.csproj.CoreCompileInputs.cache
+C:\Users\coolt\source\repos\TcpLibs\NetClient\obj\Release\NetClient.csproj.CopyComplete
+C:\Users\coolt\source\repos\TcpLibs\NetClient\obj\Release\NetClient.dll
+C:\Users\coolt\source\repos\TcpLibs\NetClient\obj\Release\NetClient.pdb

@@ -1,0 +1,9 @@
+C:\Users\coolt\source\repos\TcpLibs\NetServer\bin\Release\NetServer.dll
+C:\Users\coolt\source\repos\TcpLibs\NetServer\bin\Release\NetServer.pdb
+C:\Users\coolt\source\repos\TcpLibs\NetServer\bin\Release\NetShared.dll
+C:\Users\coolt\source\repos\TcpLibs\NetServer\bin\Release\NetShared.pdb
+C:\Users\coolt\source\repos\TcpLibs\NetServer\obj\Release\NetServer.csprojAssemblyReference.cache
+C:\Users\coolt\source\repos\TcpLibs\NetServer\obj\Release\NetServer.csproj.CoreCompileInputs.cache
+C:\Users\coolt\source\repos\TcpLibs\NetServer\obj\Release\NetServer.csproj.CopyComplete
+C:\Users\coolt\source\repos\TcpLibs\NetServer\obj\Release\NetServer.dll
+C:\Users\coolt\source\repos\TcpLibs\NetServer\obj\Release\NetServer.pdb

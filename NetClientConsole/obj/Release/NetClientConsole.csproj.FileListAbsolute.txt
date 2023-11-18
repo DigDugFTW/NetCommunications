@@ -1,0 +1,12 @@
+C:\Users\coolt\source\repos\TcpLibs\NetClientConsole\bin\Release\NetClientConsole.exe.config
+C:\Users\coolt\source\repos\TcpLibs\NetClientConsole\bin\Release\NetClientConsole.exe
+C:\Users\coolt\source\repos\TcpLibs\NetClientConsole\bin\Release\NetClientConsole.pdb
+C:\Users\coolt\source\repos\TcpLibs\NetClientConsole\bin\Release\NetClient.dll
+C:\Users\coolt\source\repos\TcpLibs\NetClientConsole\bin\Release\NetShared.dll
+C:\Users\coolt\source\repos\TcpLibs\NetClientConsole\bin\Release\NetShared.pdb
+C:\Users\coolt\source\repos\TcpLibs\NetClientConsole\bin\Release\NetClient.pdb
+C:\Users\coolt\source\repos\TcpLibs\NetClientConsole\obj\Release\NetClientConsole.csprojAssemblyReference.cache
+C:\Users\coolt\source\repos\TcpLibs\NetClientConsole\obj\Release\NetClientConsole.csproj.CoreCompileInputs.cache
+C:\Users\coolt\source\repos\TcpLibs\NetClientConsole\obj\Release\NetClientConsole.csproj.CopyComplete
+C:\Users\coolt\source\repos\TcpLibs\NetClientConsole\obj\Release\NetClientConsole.exe
+C:\Users\coolt\source\repos\TcpLibs\NetClientConsole\obj\Release\NetClientConsole.pdb

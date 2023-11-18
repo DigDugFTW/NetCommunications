@@ -1,0 +1,17 @@
+C:\Users\coolt\source\repos\TcpLibs\NetTcpSandBoxTesting\bin\Debug\net6.0\NetTcpSandBoxTesting.deps.json
+C:\Users\coolt\source\repos\TcpLibs\NetTcpSandBoxTesting\bin\Debug\net6.0\NetTcpSandBoxTesting.dll
+C:\Users\coolt\source\repos\TcpLibs\NetTcpSandBoxTesting\bin\Debug\net6.0\NetTcpSandBoxTesting.pdb
+C:\Users\coolt\source\repos\TcpLibs\NetTcpSandBoxTesting\bin\Debug\net6.0\NetShared.dll
+C:\Users\coolt\source\repos\TcpLibs\NetTcpSandBoxTesting\bin\Debug\net6.0\NetShared.pdb
+C:\Users\coolt\source\repos\TcpLibs\NetTcpSandBoxTesting\obj\Debug\net6.0\NetTcpSandBoxTesting.csproj.AssemblyReference.cache
+C:\Users\coolt\source\repos\TcpLibs\NetTcpSandBoxTesting\obj\Debug\net6.0\NetTcpSandBoxTesting.Properties.Resources.resources
+C:\Users\coolt\source\repos\TcpLibs\NetTcpSandBoxTesting\obj\Debug\net6.0\NetTcpSandBoxTesting.csproj.GenerateResource.cache
+C:\Users\coolt\source\repos\TcpLibs\NetTcpSandBoxTesting\obj\Debug\net6.0\NetTcpSandBoxTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coolt\source\repos\TcpLibs\NetTcpSandBoxTesting\obj\Debug\net6.0\NetTcpSandBoxTesting.AssemblyInfoInputs.cache
+C:\Users\coolt\source\repos\TcpLibs\NetTcpSandBoxTesting\obj\Debug\net6.0\NetTcpSandBoxTesting.AssemblyInfo.cs
+C:\Users\coolt\source\repos\TcpLibs\NetTcpSandBoxTesting\obj\Debug\net6.0\NetTcpSandBoxTesting.csproj.CoreCompileInputs.cache
+C:\Users\coolt\source\repos\TcpLibs\NetTcpSandBoxTesting\obj\Debug\net6.0\NetTcpSandBoxTesting.csproj.CopyComplete
+C:\Users\coolt\source\repos\TcpLibs\NetTcpSandBoxTesting\obj\Debug\net6.0\NetTcpSandBoxTesting.dll
+C:\Users\coolt\source\repos\TcpLibs\NetTcpSandBoxTesting\obj\Debug\net6.0\refint\NetTcpSandBoxTesting.dll
+C:\Users\coolt\source\repos\TcpLibs\NetTcpSandBoxTesting\obj\Debug\net6.0\NetTcpSandBoxTesting.pdb
+C:\Users\coolt\source\repos\TcpLibs\NetTcpSandBoxTesting\obj\Debug\net6.0\ref\NetTcpSandBoxTesting.dll

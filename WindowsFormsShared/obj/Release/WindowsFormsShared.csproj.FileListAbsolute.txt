@@ -1,0 +1,8 @@
+C:\Users\coolt\source\repos\TcpLibs\WindowsFormsShared\bin\Release\WindowsFormsShared.dll
+C:\Users\coolt\source\repos\TcpLibs\WindowsFormsShared\bin\Release\WindowsFormsShared.pdb
+C:\Users\coolt\source\repos\TcpLibs\WindowsFormsShared\obj\Release\WindowsFormsShared.csprojAssemblyReference.cache
+C:\Users\coolt\source\repos\TcpLibs\WindowsFormsShared\obj\Release\NetClientWindowsForms.Controls.ContentControl.resources
+C:\Users\coolt\source\repos\TcpLibs\WindowsFormsShared\obj\Release\WindowsFormsShared.csproj.GenerateResource.cache
+C:\Users\coolt\source\repos\TcpLibs\WindowsFormsShared\obj\Release\WindowsFormsShared.csproj.CoreCompileInputs.cache
+C:\Users\coolt\source\repos\TcpLibs\WindowsFormsShared\obj\Release\WindowsFormsShared.dll
+C:\Users\coolt\source\repos\TcpLibs\WindowsFormsShared\obj\Release\WindowsFormsShared.pdb

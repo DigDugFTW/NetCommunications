@@ -1,0 +1,6 @@
+C:\Users\coolt\source\repos\TcpLibs\NetShared\bin\Debug\NetShared.dll
+C:\Users\coolt\source\repos\TcpLibs\NetShared\bin\Debug\NetShared.pdb
+C:\Users\coolt\source\repos\TcpLibs\NetShared\obj\Debug\NetShared.csproj.AssemblyReference.cache
+C:\Users\coolt\source\repos\TcpLibs\NetShared\obj\Debug\NetShared.csproj.CoreCompileInputs.cache
+C:\Users\coolt\source\repos\TcpLibs\NetShared\obj\Debug\NetShared.dll
+C:\Users\coolt\source\repos\TcpLibs\NetShared\obj\Debug\NetShared.pdb

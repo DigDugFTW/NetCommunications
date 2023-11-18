@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NetTcpSandBoxTesting/1.0.0": {
+        "dependencies": {
+          "NetShared": "1.0.0"
+        },
+        "runtime": {
+          "NetTcpSandBoxTesting.dll": {}
+        }
+      },
+      "NetShared/1.0.0": {
+        "runtime": {
+          "NetShared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetTcpSandBoxTesting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetShared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F13FE7CD-1672-4754-9F5C-F24713EE3596}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NetShared</RootNamespace>
+    <AssemblyName>NetShared</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Events\AuthenticationReceivedEventArgs.cs" />
+    <Compile Include="Events\ClientErrorEventArgs.cs" />
+    <Compile Include="Events\ClientInformationEventArgs.cs" />
+    <Compile Include="Events\ObjectReceivedEventArgs.cs" />
+    <Compile Include="Events\RequestSendEventArgs.cs" />
+    <Compile Include="Events\ResponseSendEventArgs.cs" />
+    <Compile Include="Exceptions\SerializationException.cs" />
+    <Compile Include="Extensions\WaitHandleExtensions.cs" />
+    <Compile Include="Logging\Logger.cs" />
+    <Compile Include="NetObject\AuthenticationRequest.cs" />
+    <Compile Include="NetObject\MessageBase.cs" />
+    <Compile Include="NetObject\RequestMessage.cs" />
+    <Compile Include="NetObject\RequestBase.cs" />
+    <Compile Include="NetObject\ResponseBase.cs" />
+    <Compile Include="NetObject\ResponseMessage.cs" />
+    <Compile Include="NetParser\IParser.cs" />
+    <Compile Include="NetParser\Parser.cs" />
+    <Compile Include="NetParser\ParserArgs.cs" />
+    <Compile Include="Net\Compressor.cs" />
+    <Compile Include="NetParser\ParserResponse.cs" />
+    <Compile Include="Net\IFramer.cs" />
+    <Compile Include="Net\ISerializer.cs" />
+    <Compile Include="Net\TcpComms.cs" />
+    <Compile Include="Net\TcpFramer.cs" />
+    <Compile Include="NetHelper.cs" />
+    <Compile Include="Net\Serializer.cs" />
+    <Compile Include="Net\StateObject.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

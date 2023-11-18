@@ -1,0 +1,13 @@
+C:\Users\coolt\source\repos\TcpLibs\NetServerConsole\obj\Debug\NetServerConsole.csproj.AssemblyReference.cache
+C:\Users\coolt\source\repos\TcpLibs\NetServerConsole\obj\Debug\NetServerConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolt\source\repos\TcpLibs\NetServerConsole\obj\Debug\NetServerConsole.csproj.CoreCompileInputs.cache
+C:\Users\coolt\source\repos\TcpLibs\NetServerConsole\bin\Debug\NetServerConsole.exe.config
+C:\Users\coolt\source\repos\TcpLibs\NetServerConsole\bin\Debug\NetServerConsole.exe
+C:\Users\coolt\source\repos\TcpLibs\NetServerConsole\bin\Debug\NetServerConsole.pdb
+C:\Users\coolt\source\repos\TcpLibs\NetServerConsole\bin\Debug\NetServer.dll
+C:\Users\coolt\source\repos\TcpLibs\NetServerConsole\bin\Debug\NetShared.dll
+C:\Users\coolt\source\repos\TcpLibs\NetServerConsole\bin\Debug\NetShared.pdb
+C:\Users\coolt\source\repos\TcpLibs\NetServerConsole\obj\Debug\NetServerConsole.csproj.CopyComplete
+C:\Users\coolt\source\repos\TcpLibs\NetServerConsole\obj\Debug\NetServerConsole.exe
+C:\Users\coolt\source\repos\TcpLibs\NetServerConsole\obj\Debug\NetServerConsole.pdb
+C:\Users\coolt\source\repos\TcpLibs\NetServerConsole\bin\Debug\NetServer.pdb
